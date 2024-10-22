@@ -1,13 +1,24 @@
 [
     {
-        "company": "",
-        "location": "Hyderabad",
+        "company": "Yet to update",
+        "location": "Pune India",
         "description": "",
-        "position": "Backend Developer",
+        "position": "Full Stack Developer",
+        "url": "",
+        "startDate": "2022",
+        "endDate": "Present",
+        "remote": false,
+        "highlights": ["Java","WebFlux", "Spring-Boot","Angular","Docker","Kubernetes","AWS"]
+    },
+    {
+        "company": "Yet to Update",
+        "location": "Hyderabad India",
+        "description": "",
+        "position": "Full Stack Developer",
         "url": "",
         "startDate": "2019",
         "endDate": "2022",
         "remote": false,
-        "highlights": []
+        "highlights": ["Java","WebFlux", "Spring-Boot","Angular","Docker","Kubernetes","Azure"]
     }
 ]
