@@ -22,3 +22,18 @@
 html {
   scroll-behavior: smooth;
 }
+
+/* Custom class to style background image */
+.background-img-wrapper {
+  background-image: url('assets/mystack.png');
+  background-position: 90% 5%;
+  background-repeat: no-repeat;
+}
+
+/* Media query for small devices */
+@media (max-width: 576px) {
+  .background-img-wrapper {
+    background-position: 75% 0.3%;
+    background-size: contain;
+  }
+}
