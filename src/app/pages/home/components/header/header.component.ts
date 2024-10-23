@@ -19,7 +19,7 @@ import { User } from 'src/app/models/user.interface';
     AsyncPipe,
   ],
   template: `
-    <section href="home" class="flex flex-col justify-between gap-5">
+    <section id="home" class="flex flex-col justify-between gap-5">
       <img
         src="./assets/data/profile.png"
         alt="Satish Ahirwar profile image"
